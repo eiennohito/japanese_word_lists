@@ -10,9 +10,8 @@
 だけ
 内|うち
 母さん|かあさん
-せる|せる
 教育|きょういく
-とても|とても
+とても|とても| (adv,uk) very; awfully; exceedingly; (before a negative form) (not) at all; by no means; simply (cannot);
 熱心|ねっしん
 沢山|たくさん
 そういう
@@ -24,7 +23,6 @@
 英語|えいご
 だから|だから
 アメリカ|あめりか
-より
 遊ぶ|あそぶ
 時間|じかん
 少ない|すくない
@@ -34,27 +32,26 @@
 試験|しけん
 難しい|むずかしい
 時|とき
-パス|ぱす
+パス | ぱす | (n,vs) path; pass (e.g. skipping a move, passing an examination, ticket to allow entry, etc.);
 ばかり
 疲れる|つかれる
 大抵|たいてい
 入る|はいる
 学生|がくせい
-あんまり|あんまり
+余り | あんまり | (adj-na,adv,adj-no,n,n-suf,uk) remainder; rest; balance; remains; scraps; residue; remnant; not very (with negative sentence); not much; surplus; excess; fullness; too much; overjoyed; overwhelmed; 
 大学生|だいがくせい
 方|ほう
 ずっと|ずっと
 随分|ずいぶん
 違う|ちがう
 習慣|しゅうかん
-スミス
-こちら
+此方 | こちら| (n,uk,pn,adj-no) this way (direction close to the speaker or towards the speaker); this direction; here (place close to the speaker or where the speaker is); this one (something physically close to the speaker); 
 月|がつ
 始める|はじめる
 どうぞ|どうぞ
 宜しい|よろしい
 願う|ねがう
-こそ
+こそ | (prt) for sure (emphasize preceding word); (P)
 来年|らいねん
 行く|いく
 初め|はじめ
@@ -62,7 +59,6 @@
 予定|よてい
 年|ねん
 つもり
-ホスト|ほすと
 ファミリー|ふぁみりー
 生活|せいかつ
 家|いえ
@@ -88,10 +84,10 @@
 料理|りょうり
 フランス|ふらんす
 外国|がいこく
-どう
-ステーキ|すてーき
+如何 | どう | (adv,uk) how; in what way; how about; (P)
+ステーキ|すてーき | Steak
 ハンバーガー|はんばーがー
-など
+等｜など
 物|もの
 大体|だいたい
 全部|ぜんぶ
@@ -119,18 +115,17 @@
 同じ|おなじ
 所|しょ
 昔|むかし
-しゃがむ|しゃがむ
+しゃがむ | しゃがむ | (v5m,vi) to squat; to crouch;
 今|いま
 座る|すわる
-ドア|どあ
+ドア|どあ|door
 開ける|あける
-おく|おく
+置く|おく
 閉める|しめる
 忘れる|わすれる
 中|なか
 靴|くつ
 履く|はく
-まま
 脱ぐ|ぬぐ
 玄関|げんかん
 スリッパ|すりっぱ
@@ -147,11 +142,9 @@
 何も|なにも
 入れる|いれる
 汚い|きたない
-なる|なる
-タオル|たおる
+成る|なる
+タオル|たおる|Towel
 生ける|いける
-男|おとこ
-人|じん
 台所|だいどころ
 聞く|きく
 大丈夫|だいじょうぶ
