@@ -32,20 +32,20 @@
 試験|しけん
 難しい|むずかしい
 時|とき
-パス | ぱす | (n,vs) path; pass (e.g. skipping a move, passing an examination, ticket to allow entry, etc.);
+パス
 ばかり
 疲れる|つかれる
 大抵|たいてい
 入る|はいる
 学生|がくせい
-余り | あんまり | (adj-na,adv,adj-no,n,n-suf,uk) remainder; rest; balance; remains; scraps; residue; remnant; not very (with negative sentence); not much; surplus; excess; fullness; too much; overjoyed; overwhelmed; 
+余り
 大学生|だいがくせい
 方|ほう
 ずっと|ずっと
 随分|ずいぶん
 違う|ちがう
 習慣|しゅうかん
-此方 | こちら| (n,uk,pn,adj-no) this way (direction close to the speaker or towards the speaker); this direction; here (place close to the speaker or where the speaker is); this one (something physically close to the speaker); 
+此方 | こちら
 月|がつ
 始める|はじめる
 どうぞ|どうぞ
@@ -115,7 +115,7 @@
 同じ|おなじ
 所|しょ
 昔|むかし
-しゃがむ | しゃがむ | (v5m,vi) to squat; to crouch;
+しゃがむ
 今|いま
 座る|すわる
 ドア|どあ|door
